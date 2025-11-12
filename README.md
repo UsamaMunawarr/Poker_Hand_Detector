@@ -14,7 +14,7 @@
 
 ---
 
-![Demo](demo.gif)
+![Demo](demo.gif)  
 *Live demo showing card detection, classification, and real-time poker hand recognition.*
 
 ---
